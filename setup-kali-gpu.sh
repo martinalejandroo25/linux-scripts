@@ -1,8 +1,5 @@
 #!/bin/bash
 # Script de configuración de GPU NVIDIA para Kali Linux en Distrobox
-# Autor: Configuración automatizada
-# Fecha: 2026-01-02
-#
 # Este script configura un contenedor Kali Linux en distrobox para usar
 # la GPU NVIDIA 3060 Ti del sistema host.
 
