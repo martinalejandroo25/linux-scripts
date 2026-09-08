@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#Estuve configurarando un LLM en local dentro de mi Home Server, esta es un test que lo hice para ver su rendimiento en la creación de  pequeños scripts(meh) 
+
 # Primero obtenemos la temperatura del sistema usando lm-sensors
 temperature=$(sensors | grep "Core 0" | awk '{print $3}')
 
