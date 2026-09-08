@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#El dia que empecé a trabajar en mi primera empresa de prácticas me avisaron de que me darían un ordenador de trabajo. Yo sabía que instalaría Arch y herramientas de desarrollo varias,
+# llegué, instalé Arch, cargué el script y empezó la instalación de todo, y mientras mi compañero me enseñó las instalaciones, fue un buen día
+
 # Colores para la terminal
 GREEN='\033[0;32m'
 NC='\033[0m'
