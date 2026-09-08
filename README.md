@@ -9,8 +9,3 @@ Scripts pequeños Que uso para mi portatil, limitar porcentaje de bateria para q
 - `setup-kali-gpu.sh`: Configuracion y activacion de aceleracion GPU en entornos Kali/Debian.
 - `wol-ordenador.sh` / `wol-guardian.sh`: Envio de paquetes Wake-on-LAN (WOL) y guardian de encendido remoto.
 - `suspend-desktop.sh` / `wake-desktop.sh`: Control remoto de suspension y arranque del equipo de sobremesa.
-
-## Requisitos
-
-- Sistema operativo Linux (optimizado para Arch Linux / Debian).
-- Bash 5+.
