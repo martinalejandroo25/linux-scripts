@@ -1,4 +1,6 @@
 #!/bin/bash
+#Este script lo hice hace años para mi antiguo thinkpad, quería limitar la carga a un punto especifico para no tenerlo al 100% todo el tiempo
+
 echo -n "Desde que punto empieza la carga? "
 read inicio
 echo -n "Desde que punto finaliza? "
