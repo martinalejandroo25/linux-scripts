@@ -4,8 +4,7 @@
 #  Conecta auriculares Bluetooth (88:92:CC:03:86:F1) y auriculares por cable,
 #  y crea un sink virtual de PipeWire/PulseAudio que reproduce en ambos a la vez.
 #
-#  Arch Linux · PipeWire + WirePlumber (o PulseAudio con BlueZ)
-#  Autor: generado con Claude
+#  Arch Linux como sistema de uso
 # =============================================================================
 
 set -euo pipefail
