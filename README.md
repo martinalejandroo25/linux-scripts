@@ -1,7 +1,6 @@
 # Linux Scripts
 
-Coleccion de scripts de automatizacion y herramientas utilitarias para administracion de sistemas Linux, configuracion de hardware, audio y gestion de energia.
-
+Scripts pequeños Que uso para mi portatil, limitar porcentaje de bateria para que no esté al 100% siempre, configurar monitores que tenía que hacer manualmente, así que lo puse todo en un script, enviar paquetes WOL que, si bien funcionan, no siempre, pero me ha salvado en varias ocasiones
 ## Scripts Principales
 
 - `bateria.sh`: Monitorizacion del nivel de bateria con avisos y alertas de suspension.
